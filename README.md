@@ -11,10 +11,7 @@ Sumário:
 
 Engenharia de Software 
 
-1  O que é Engenharia de Software
-2  Etapas e Processos de Desenvolvimento
-3  Modelos de Processo de Software
-4  Requisitos de Software e Engenharia de Requisitos
-
-
-
+O que é Engenharia de Software
+Etapas e Processos de Desenvolvimento
+Modelos de Processo de Software
+Requisitos de Software e Engenharia de Requisitos
