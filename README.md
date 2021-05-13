@@ -4,7 +4,7 @@ Disciplina - ENGENHARIA DE SOFTWARE
 
 Professor: Paulo Henrique Souza Barbosa(link do github:https://github.com/agenteph)
 
-Grupo:Francisco anderson, clesio rodrigues, joão victor pereira, paulo ricardo, carlos daniel, vitor magalhães
+Grupo:Francisco Anderson, Clesio Rodrigues, João Victor Pereira, Paulo Ricardo, Carlos Daniel, Vitor Magalhães
 
 
 Sumário: 
