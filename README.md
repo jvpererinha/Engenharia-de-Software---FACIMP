@@ -18,3 +18,7 @@ Engenharia de Software
  3 Modelos de Processo de Software
 
  4 Requisitos de Software e Engenharia de Requisitos
+
+ 5 Tipos de manutenção: CORRETIVA, ADAPTATIVA, PERFECTIVA, PREVENTIVA. O CONCEITO DE MANUTENIBILIDADE
+ 
+ 6 Métricas de processo x Métricas de produto
