@@ -1,6 +1,6 @@
 <h1>FACIMP - Faculdade de Imperatriz</h1>
-
- <br>
+<br>
+<img src="logo-facimp.png" alt="logo">
 <p>Disciplina - Engenharia de Software</p>
 <p>Professor: <a href="https://github.com/agenteph">Paulo Henrique de Souza Barbosa</a></p>
 <br>
