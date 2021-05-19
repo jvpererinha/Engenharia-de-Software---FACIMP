@@ -1,4 +1,13 @@
-<h1>FACIMP - Faculdade de Imperatriz</h1>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>FACIMP - Faculdade de Imperatriz</h1>
 
     <br>
 
@@ -25,3 +34,5 @@
     <p><b><a href="">4. Requisitos de Software e Engenharia de Requisitos</a></b></p>
     <p><b><a href="">5. Tipos de manutenção: CORRETIVA, ADAPTATIVA, PERFECTIVA. O conceito de manutenibilidade.</a></b></p>
     <p><b><a href="">6. Métricas de processo x Métricas de produto</a></b></p>
+</body>
+</html>
